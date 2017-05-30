@@ -1,0 +1,10 @@
+# Site settings
+title: Welcome
+tag_text: GANESH DATT JOSHI
+description: Welcome .....
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
